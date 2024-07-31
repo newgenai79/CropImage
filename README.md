@@ -1,6 +1,6 @@
 # CropImage
 
-###Credits for image crop code to [EdTalk](https://github.com/tanshuai0219/EDTalk)
+### Credits for image crop code to [EdTalk](https://github.com/tanshuai0219/EDTalk)
 
 Download and place in root directory
 
