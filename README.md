@@ -2,6 +2,25 @@
 
 ### Credits for image crop code to [EdTalk](https://github.com/tanshuai0219/EDTalk)
 
+```
+git clone https://github.com/newgenai79/CropImage
+```
+
+```
+cd CropImage
+```
+
+```
+python -m venv venv
+```
+
+```
+venv\Scripts\activate
+```
+```
+pip install -r requirements.txt
+```
+
 Download and place in root directory
 
 ```
@@ -12,4 +31,10 @@ Download and place in data_preprocess folder
 
 ```
 https://raw.githubusercontent.com/tanshuai0219/EDTalk/main/data_preprocess/M003_template.npy
+```
+
+Launch Gradio based WebUI
+
+```
+python app.py
 ```
